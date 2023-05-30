@@ -1,0 +1,5 @@
+cd careapp
+code .
+inside the vs code terminal (toggle ctrl + ')
+    php artisan serve
+    -> open localhost:8000 in browser
